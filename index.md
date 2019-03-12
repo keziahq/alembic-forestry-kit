@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: 'Community for Business ROI '
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
----
+feature_image: https://picsum.photos/1300/400?image=989
+feature_text: "## Third Space"
+aside: false
 
-There isn't much going on here yet, but watch this space
+---
+Why is community important for user growth?
